@@ -16,23 +16,23 @@
             </div>
             <div class="flex-row justify-content-between align-items-center d-none d-md-flex">
                 <div class="d-flex flex-row align-items-center">
-                    <img class="icono" src="../assets/building.svg" alt="icono empresa">
+                    <img class="icono" src="/building.svg" alt="icono empresa">
                     <span class="text-capitalize">{{ listjob.organization }}</span>
                 </div>
                 <div class="d-flex flex-row align-items-center">
-                    <img class="icono" src="../assets/ubicacion.svg" alt="icono ubicacion">
+                    <img class="icono" src="/ubicacion.svg" alt="icono ubicacion">
                     <p>{{ listjob.location }}</p>
                 </div>
                 <div class="d-flex flex-row align-items-center">
-                    <img class="icono" src="../assets/money.svg" alt="icono salario">
+                    <img class="icono" src="/money.svg" alt="icono salario">
                     <p>{{ listjob.salary }}</p>
                 </div>
                 <div class="d-flex flex-row align-items-center">
-                    <img class="icono" src="../assets/vacante.svg" alt="icono vacante">
+                    <img class="icono" src="/vacante.svg" alt="icono vacante">
                     <p>{{ listjob.numberVacants }} Vacante</p>
                 </div>
                 <div class="d-flex flex-row align-items-center">
-                    <img class="icono" src="../assets/fecha.svg" alt="icono fecha">
+                    <img class="icono" src="/fecha.svg" alt="icono fecha">
                     <p>{{ listjob.datePosted }} days ago</p>
                 </div>
                 <ul class="d-flex flex-row align-items-center">
